@@ -3,7 +3,7 @@ function calcularIMC (kg, m) {
 
     if (IMC < 18.5){
         alert("Abaixo do peso")
-    } elseif (imc >= 18.5 && imc < 24.9) {
+    } else if (imc >= 18.5 && imc < 24.9){
         alert("Peso normal")
     }
     else{
